@@ -1,0 +1,15 @@
+{
+  "name": "backend-assignment",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "BackendTestSubmission/server.js",
+  "scripts": {
+    "start": "node BackendTestSubmission/server.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "nanoid": "^5.1.5"
+  }
+}
